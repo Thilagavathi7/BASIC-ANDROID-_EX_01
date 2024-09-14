@@ -1,4 +1,4 @@
-# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/d18df971-a20b-4d21-b0de-9d670d655840)![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/2a520cd3-8576-4274-803c-ba6701670b9f)# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
 ## AIM:
@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : Udhayanithi M
-### REGISTER NO: 212222220054
+### DEVELOPED BY : Thilagavathi S
+### REGISTER NO: 212222220053
 
 ### MainActivity.java:
 ```
@@ -120,16 +120,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-## OnCreate Executed:
-![Screenshot_20240901_142114](https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b)
-## OnPause Executed:
-![Screenshot_20240901_142138](https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6)
-## OnResume Executed:
-![Screenshot_20240901_142245](https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104)
-## OnRestart Executed:
-![Screenshot_20240901_142322](https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f)
-## OnStart Executed:
-![Screenshot_20240901_142359](https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46)
+
+![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/95f00fc7-62f8-4038-870a-88a253896ef6)
+![365599188-8a8709a0-89f6-4117-bd6a-c963f240cbc9](https://github.com/user-attachments/assets/0ee6b90f-81de-47bf-8b04-1c323c91a709)
 
 
 
