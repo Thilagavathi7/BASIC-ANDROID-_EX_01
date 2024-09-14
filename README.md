@@ -1,4 +1,3 @@
-![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/d18df971-a20b-4d21-b0de-9d670d655840)![365599059-c5ffb66a-8a46-43f6-80ae-6cee68eb1314](https://github.com/user-attachments/assets/2a520cd3-8576-4274-803c-ba6701670b9f)# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
 ## AIM:
