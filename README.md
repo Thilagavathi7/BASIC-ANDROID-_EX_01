@@ -1,4 +1,4 @@
-
+# BASIC-ANDROID-EX-01_Implementation of a HELLO WORLD activity using all lifecycle methods using Android Studio
 
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
